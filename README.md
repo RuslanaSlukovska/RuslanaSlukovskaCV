@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RuslanaSlukovska
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML, CSS, JS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me --> ruslana.slukovska@gmail.com
 
 <!---
 RuslanaSlukovska/RuslanaSlukovska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
