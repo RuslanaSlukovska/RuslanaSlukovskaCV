@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML, CSS, JS.
 - 📫 How to reach me --> ruslana.slukovska@gmail.com
+- ✨ https://ruslanaslukovska.github.io/RuslanaSlukovskaCV/index.html
 
 <!---
 RuslanaSlukovska/RuslanaSlukovska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
